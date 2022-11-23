@@ -1,0 +1,22 @@
+
+
+p {
+    font-family:Verdana,"DejaVu Sans", sans-serif ;
+    background-color: rgb(251, 95, 179);
+}
+
+#blueDiv {
+    color:rgb(15, 191, 255);
+    font-size: 36px;
+}
+
+#thirdP{
+font-size: 24px;
+}
+
+#fourthID {
+    background-color: rgb(89, 213, 89);
+    font-size: 24px;
+    font-weight: bold;
+}
+
